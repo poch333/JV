@@ -33,7 +33,7 @@ body{
 	background-repeat: no-repeat;
 	border-radius:2.5vmin 2.5vmin 0 0;
 }
-a{
+.a{
 	position: relative;
 }
 .menu{
@@ -105,11 +105,6 @@ a{
 	left: 60%; 
 	top:50%;
 }
-#cien{
-	position: relative; 
-	left: 60%; 
-	top:50%;
- }
 .button{
 	color: white;
 	font-size: 50px;
