@@ -30,7 +30,7 @@ body{
 	width: 90%;
 	height: 300px;
 	border: 0px solid black;
-	background-image: url("JV/Imagenes/Inicio/Edificio3.png");
+	background-image: url('JV/Imagenes/Inicio/Edificio3.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	border-radius:2.5vmin 2.5vmin 0 0;
@@ -48,7 +48,7 @@ a{
 	width: 90%;
 	height: 400px;
 	border: 0px solid black;
-	background-image: url("JV/Imagenes/Inicio/cons.jpg");
+	background-image: url('JV/Imagenes/Inicio/cons.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	display:-webkit-flex;
