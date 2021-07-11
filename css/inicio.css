@@ -24,6 +24,7 @@ body{
 	height: 100%;
 	background-color: green;
 	border-color: black;
+	border: 5px;
 }
 .enc{
 	width: 90%;
