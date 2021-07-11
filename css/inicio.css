@@ -34,6 +34,7 @@ body{
 	background-size: cover;
 	background-repeat: no-repeat;
 	border-radius:2.5vmin 2.5vmin 0 0;
+	opacity: 80%;
 }
 a{
 	position: relative;
