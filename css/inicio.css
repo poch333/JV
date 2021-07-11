@@ -36,7 +36,7 @@ body{
 	width: 90%;
 	height: 300px;
 	border: 0px solid black;
-	background-image: url("..JV/imagenes/inicio/Edificio3.png");
+	background-image: url("../JV/imagenes/inicio/Edificio3.png");
 	
 	background-size: cover;
 	
@@ -57,7 +57,7 @@ a{
 	width: 90%;
 	height: 400px;
 	border: 0px solid black;
-	background-image: url("..JV/imagenes/inicio/cons.jpg");
+	background-image: url("../JV/imagenes/inicio/cons.jpg");
 	background-size: cover;
 	background-attachment: ;
 	background-repeat: no-repeat;
