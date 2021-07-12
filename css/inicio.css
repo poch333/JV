@@ -23,7 +23,7 @@ body{
 #enc{
 	width: 90%;
 	height: 250px;
-	background-image: url("../imagenes/ini/Edificio3.png");
+	background-image: url("../imagenes/ini/edificio3.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	border-radius:2.5vmin 2.5vmin 0 0;
